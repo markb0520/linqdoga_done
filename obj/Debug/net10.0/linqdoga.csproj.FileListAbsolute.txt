@@ -1,0 +1,15 @@
+C:\Users\buza.bence\Desktop\LINQ DOGA\linqdoga\bin\Debug\net10.0\linqdoga.exe
+C:\Users\buza.bence\Desktop\LINQ DOGA\linqdoga\bin\Debug\net10.0\linqdoga.deps.json
+C:\Users\buza.bence\Desktop\LINQ DOGA\linqdoga\bin\Debug\net10.0\linqdoga.runtimeconfig.json
+C:\Users\buza.bence\Desktop\LINQ DOGA\linqdoga\bin\Debug\net10.0\linqdoga.dll
+C:\Users\buza.bence\Desktop\LINQ DOGA\linqdoga\bin\Debug\net10.0\linqdoga.pdb
+C:\Users\buza.bence\Desktop\LINQ DOGA\linqdoga\obj\Debug\net10.0\linqdoga.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\buza.bence\Desktop\LINQ DOGA\linqdoga\obj\Debug\net10.0\linqdoga.AssemblyInfoInputs.cache
+C:\Users\buza.bence\Desktop\LINQ DOGA\linqdoga\obj\Debug\net10.0\linqdoga.AssemblyInfo.cs
+C:\Users\buza.bence\Desktop\LINQ DOGA\linqdoga\obj\Debug\net10.0\linqdoga.csproj.CoreCompileInputs.cache
+C:\Users\buza.bence\Desktop\LINQ DOGA\linqdoga\obj\Debug\net10.0\linqdoga.dll
+C:\Users\buza.bence\Desktop\LINQ DOGA\linqdoga\obj\Debug\net10.0\refint\linqdoga.dll
+C:\Users\buza.bence\Desktop\LINQ DOGA\linqdoga\obj\Debug\net10.0\linqdoga.pdb
+C:\Users\buza.bence\Desktop\LINQ DOGA\linqdoga\obj\Debug\net10.0\linqdoga.genruntimeconfig.cache
+C:\Users\buza.bence\Desktop\LINQ DOGA\linqdoga\obj\Debug\net10.0\ref\linqdoga.dll
+C:\Users\buza.bence\Desktop\LINQ DOGA\linqdoga\obj\Debug\net10.0\linqdoga.csproj.Up2Date
